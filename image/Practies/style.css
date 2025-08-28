@@ -1,0 +1,38 @@
+.First{
+     height: 30%;
+     width: 60%;
+     color: red;
+     background-color: yellow;
+
+}
+
+/* there are seven color in css  
+1 Name
+2 rgb 
+3 rgba
+4 HEX Code
+5 HSL
+6 HSLA
+7 short HEX Code
+*/
+body{
+  background-color: rgb(202, 238, 187);
+  background-image: url(https://cms.rhinoshield.app/public/images/TJS_collection_banner_Desktop_b7ad8ea1ed.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+p{
+  color: rgb(208, 241, 74);
+}
+button{
+  padding: 7px,15px,32px,13px;
+  border: 3px solid black;
+  border-radius: 4px;
+}
+button:hover{
+  background-color: lightblue;
+  
+}

@@ -1,0 +1,35 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f9f3e9;
+  color: #4b3d3d;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #4b3d3d;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+.clock {
+  font-size: 48px;
+  font-weight: bold;
+  padding: 20px;
+  border: 2px solid #4b3d3d;
+  background-color: #f0e6d2;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 20px;
+}
